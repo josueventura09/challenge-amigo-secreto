@@ -44,7 +44,7 @@ Debes agregar al menos 3 personas para que el sorteo funcione correctamente
 
 ---
 
-### Autor
+## Autor
 Josué Ventura
 
 ---
