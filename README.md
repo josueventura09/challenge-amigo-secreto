@@ -8,13 +8,14 @@ Este proyecto es una aplicación web para organizar un juego de Amigo Secreto en
 
 - Registro de participantes
 - Sorteo automático de parejas de Amigo Secreto
-- Visualización individual del resultado (secreto)
+- Visualización individual del resultado
 - Validaciones para evitar errores como duplicados o campos vacíos
 
 ---
 
 ## Estructura del proyecto
-📁 challenge-amigo-secreto
+
+challenge-amigo-secreto
 ├── index.html
 ├── style.css
 ├── script.js
@@ -24,27 +25,28 @@ Este proyecto es una aplicación web para organizar un juego de Amigo Secreto en
 
 ## Cómo instalar y ejecutar
 
-1. Clona este repositorio:
+1. Clonar este repositorio:
    ```bash
    git clone https://github.com/josueventura09/challenge-amigo-secreto.git
-2. Abre la carpeta del proyecto en tu editor o explorador de archivos.
-3. Haz doble clic en index.html para abrir la app en tu navegador.
+2. Abrir la carpeta del proyecto en un editor de texto o explorador de archivos.
+3. Hacer doble clic en index.html para ejecutar la aplicación en el navegador.
 
 ---
 
 ## Dependencias
-La aplicación no requiere instalación de paquetes ni librerías externas. Solo necesitas un navegador moderno.
+No se requieren paquetes ni librerías externas. La aplicación se ejecuta en cualquier navegador moderno.
 
 ---
 
 ## Posibles errores comunes
-Si intentas sortear sin participantes, la app mostrará un mensaje de error.
-Todos los nombres deben ser únicos.
-Debes agregar al menos 3 personas para que el sorteo funcione correctamente
+Si no se ingresan participantes, se mostrará un mensaje de error.
+Los nombres deben ser únicos para evitar conflictos en el sorteo.
+El sorteo requiere un mínimo de tres participantes para funcionar correctamente.
 
 ---
 
 ## Autor
 Josué Ventura
+https://github.com/josueventura09
 
 ---
