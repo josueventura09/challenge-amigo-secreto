@@ -14,11 +14,11 @@ Este proyecto es una aplicación web para organizar un juego de Amigo Secreto en
 ---
 
 ## Estructura del proyecto
-challenge-amigo-secreto
-index.html
-style.css
-script.js
-README.md
+---challenge-amigo-secreto
+   -index.html
+   -style.css
+   -script.js
+   -README.md
 
 ---
 
